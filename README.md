@@ -1,2 +1,2 @@
 # Soliyc
-Website for user 
+Website for user connect slack
