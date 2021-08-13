@@ -22,7 +22,7 @@
         "sass-loader": "^7.1.0"
     },
     "dependencies": {
-        "next": "^9.1.2",
+        "next": "^11.1.0",
         "react-hot-loader": "^4.12.16"
     }
 }
